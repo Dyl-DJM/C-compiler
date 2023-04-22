@@ -1,0 +1,19 @@
+
+int main(void){
+	
+	int x;
+	char z;
+
+	switch(1){
+
+		case x : {			// Case non constant : Les seules valeurs possibles sont entières ou caracteres
+			//do stuff
+		}
+
+		case z : {
+			// do stuff
+		}
+	}
+
+	return -1;
+}

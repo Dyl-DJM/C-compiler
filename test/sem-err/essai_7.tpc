@@ -1,0 +1,14 @@
+
+void facto(void){	
+	
+	// do stuff
+}
+
+
+
+int main(int a){
+
+	facto(a);	// Un argument donné à un e fonction qui ne demande aucun paramètre.
+
+	return 0;
+}

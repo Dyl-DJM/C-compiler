@@ -1,0 +1,13 @@
+char f1(int a, int b){
+	
+	return ; // Retour de type void alors que le type de retour attendu de la fonction est : char
+}
+
+
+
+
+
+int main(int a){
+
+	return 0;
+}

@@ -1,0 +1,9 @@
+int f1;
+
+int main(int integer){
+	
+	int a, b, c, d, e, f, g, a;		// Déclaration multiple sur une seule ligne 
+
+
+	return 0;
+}

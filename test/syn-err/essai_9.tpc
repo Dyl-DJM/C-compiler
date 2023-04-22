@@ -1,0 +1,5 @@
+
+int foo(int c){
+
+    float a;    // Le type float n'existe pas pour le langage TPC
+}

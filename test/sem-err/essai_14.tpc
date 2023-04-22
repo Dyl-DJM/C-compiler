@@ -1,0 +1,11 @@
+int f1;
+
+int main(int a){
+	
+	char a;		// Déclaration multiple sur une seule ligne 
+
+	a = 2;
+
+	
+	return 0;
+}

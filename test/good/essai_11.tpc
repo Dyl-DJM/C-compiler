@@ -1,0 +1,18 @@
+char globale_var;
+
+char foo(int a, int c){
+
+    // do stuff
+
+    return globale_var;
+}
+
+int main(void){
+
+    int a;
+
+    a = (10 + 2) / 2;
+
+    return foo(a, a);       // L'inférence de type fait passer cette expression (char) en int, à cause de la valeur de retour demandée
+}
+

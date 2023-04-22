@@ -1,0 +1,262 @@
+Result of the tests
+
+===================== CORRECTS ====================
+
+Fichier : essai_10.tpc
+Good
+
+Fichier : essai_11.tpc
+Good
+
+Fichier : essai_12.tpc
+Good
+
+Fichier : essai_13.tpc
+Good
+
+Fichier : essai_14.tpc
+Good
+
+Fichier : essai_15.tpc
+Good
+
+Fichier : essai_16.tpc
+Good
+
+Fichier : essai_17.tpc
+Good
+
+Fichier : essai_18.tpc
+Good
+
+Fichier : essai_19.tpc
+Good
+
+Fichier : essai_1.tpc
+Good
+
+Fichier : essai_20.tpc
+Good
+
+Fichier : essai_21.tpc
+Good
+
+Fichier : essai_22.tpc
+Good
+
+Fichier : essai_23.tpc
+Good
+
+Fichier : essai_24.tpc
+Good
+
+Fichier : essai_25.tpc
+Good
+
+Fichier : essai_2.tpc
+Good
+
+Fichier : essai_3.tpc
+Good
+
+Fichier : essai_4.tpc
+Good
+
+Fichier : essai_5.tpc
+Good
+
+Fichier : essai_6.tpc
+Good
+
+Fichier : essai_7.tpc
+Good
+
+Fichier : essai_8.tpc
+Good
+
+Fichier : essai_9.tpc
+Good
+
+
+==================== ERREURS SYNTAXIQUES ====================
+
+Fichier : essai_10.tpc
+Bad (syntaxical error)
+
+Fichier : essai_11.tpc
+Bad (syntaxical error)
+
+Fichier : essai_12.tpc
+Bad (syntaxical error)
+
+Fichier : essai_13.tpc
+Bad (syntaxical error)
+
+Fichier : essai_14.tpc
+Bad (syntaxical error)
+
+Fichier : essai_15.tpc
+Bad (syntaxical error)
+
+Fichier : essai_16.tpc
+Bad (syntaxical error)
+
+Fichier : essai_17.tpc
+Bad (syntaxical error)
+
+Fichier : essai_18.tpc
+Bad (syntaxical error)
+
+Fichier : essai_19.tpc
+Bad (syntaxical error)
+
+Fichier : essai_1.tpc
+Bad (syntaxical error)
+
+Fichier : essai_20.tpc
+Bad (syntaxical error)
+
+Fichier : essai_21.tpc
+Bad (syntaxical error)
+
+Fichier : essai_22.tpc
+Bad (syntaxical error)
+
+Fichier : essai_23.tpc
+Bad (syntaxical error)
+
+Fichier : essai_2.tpc
+Bad (syntaxical error)
+
+Fichier : essai_3.tpc
+Bad (syntaxical error)
+
+Fichier : essai_4.tpc
+Bad (syntaxical error)
+
+Fichier : essai_5.tpc
+Bad (syntaxical error)
+
+Fichier : essai_6.tpc
+Bad (syntaxical error)
+
+Fichier : essai_7.tpc
+Bad (syntaxical error)
+
+Fichier : essai_8.tpc
+Bad (syntaxical error)
+
+Fichier : essai_9.tpc
+Bad (syntaxical error)
+
+
+==================== ERREURS SEMANTIQUES ====================
+
+Fichier : essai_10.tpc
+Bad (semantical error)
+
+Fichier : essai_11.tpc
+Bad (semantical error)
+
+Fichier : essai_12.tpc
+Bad (semantical error)
+
+Fichier : essai_13.tpc
+Bad (semantical error)
+
+Fichier : essai_14.tpc
+Bad (semantical error)
+
+Fichier : essai_15.tpc
+Bad (semantical error)
+
+Fichier : essai_16.tpc
+Bad (semantical error)
+
+Fichier : essai_17.tpc
+Bad (semantical error)
+
+Fichier : essai_18.tpc
+Bad (semantical error)
+
+Fichier : essai_19.tpc
+Bad (semantical error)
+
+Fichier : essai_1.tpc
+Bad (semantical error)
+
+Fichier : essai_20.tpc
+Bad (semantical error)
+
+Fichier : essai_21.tpc
+Bad (semantical error)
+
+Fichier : essai_22.tpc
+Bad (semantical error)
+
+Fichier : essai_23.tpc
+Bad (semantical error)
+
+Fichier : essai_24.tpc
+Bad (semantical error)
+
+Fichier : essai_25.tpc
+Bad (semantical error)
+
+Fichier : essai_26.tpc
+Bad (semantical error)
+
+Fichier : essai_27.tpc
+Bad (semantical error)
+
+Fichier : essai_2.tpc
+Bad (semantical error)
+
+Fichier : essai_3.tpc
+Bad (semantical error)
+
+Fichier : essai_4.tpc
+Bad (semantical error)
+
+Fichier : essai_5.tpc
+Bad (semantical error)
+
+Fichier : essai_6.tpc
+Bad (semantical error)
+
+Fichier : essai_7.tpc
+Bad (semantical error)
+
+Fichier : essai_8.tpc
+Bad (semantical error)
+
+Fichier : essai_9.tpc
+Bad (semantical error)
+
+
+==================== WARNINGS ====================
+
+Fichier : essai_1.tpc
+Good
+
+Fichier : essai_2.tpc
+Good
+
+Fichier : essai_3.tpc
+Good
+
+Fichier : essai_4.tpc
+Good
+
+Fichier : essai_5.tpc
+Good
+
+Fichier : essai_6.tpc
+Good
+
+Fichier : essai_7.tpc
+Good
+
+Fichier : essai_8.tpc
+Good
+

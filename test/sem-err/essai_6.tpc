@@ -1,0 +1,14 @@
+
+void facto(int a){	
+	
+	// do stuff
+}
+
+
+
+int main(void){
+
+	facto();	// Aucun argument donné alors que la fonction en demande 1
+
+	return 0;
+}

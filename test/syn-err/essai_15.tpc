@@ -1,0 +1,11 @@
+
+int fonction(void){
+	
+	char a;
+
+	if((a = '2') == '2'){	// Les affectations ne marchent pas dans les conditions du if
+
+		// do stuff
+	}
+
+}

@@ -1,0 +1,6 @@
+
+int main(){		// Lorsqu'il n'y a pas de paramètres on utilise void et simplement des parenthèses vides
+	
+
+	return 0;
+}

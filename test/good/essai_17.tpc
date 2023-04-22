@@ -1,0 +1,17 @@
+/*
+Possibilité de faire des appels récursifs simultanés entre deux fonctions même
+si l'une est déclarée après l'autre.
+*/
+
+void fonction1(int a){
+    fonction2();
+}
+
+void fonction2(void){
+    fonction1(2);
+}
+
+int main(void){
+
+    return 2;
+}

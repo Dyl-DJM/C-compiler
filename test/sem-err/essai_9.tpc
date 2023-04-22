@@ -1,0 +1,15 @@
+
+
+void facto(int integer, int a, char b){	
+	
+	// do stuff
+}
+
+
+
+int main(int a){
+
+	facto(a, a);	// Manque un argument
+
+	return 0;
+}

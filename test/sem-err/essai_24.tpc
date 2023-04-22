@@ -1,0 +1,13 @@
+void fct(void){
+	
+
+	return ;
+}
+
+
+
+int main(void){
+	
+	
+	return fct();	// Retour void alors qu'un int était attendu
+}

@@ -1,0 +1,6 @@
+int main (void){
+
+    if(a > 0){
+        break;	// Le break n'est pas une instruction se trouvant en dehors d'un switch
+    }
+}

@@ -1,0 +1,16 @@
+
+int main(void){
+
+    int essa008i;	// identificateur aux normes
+    char b_;
+
+    essa008i = 1;
+
+    while(ess008ai < 1){
+        b_ = '\n';			// caractère spécial
+    }
+
+
+    return 0;
+
+}

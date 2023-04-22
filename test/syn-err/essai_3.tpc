@@ -1,0 +1,4 @@
+
+char fonct(void){
+    return 'ab';	// Ne correspond pas à la norme d'un caractère litéral
+}

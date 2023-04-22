@@ -1,0 +1,12 @@
+int main(void){
+
+	// Font partie des fonctions auto-implémentées dans chaque programme
+	getchar();
+	//putchar('a');			// provoque une erreur de segmentationen traduction nasm
+
+	getint();
+	putint(3);
+
+
+    return 0;
+}

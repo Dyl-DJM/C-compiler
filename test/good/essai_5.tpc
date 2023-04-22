@@ -1,0 +1,12 @@
+
+int main(void){
+    int a;
+    int b;
+
+    if(a == 0 && b >= a){	// Expressions booléennes composées
+        a = (a + b)/2;		// Expression arithmètique composée
+    }
+
+    return 2;
+}
+

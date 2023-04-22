@@ -1,0 +1,12 @@
+int main(int argc, char argv){
+
+    int essai_0;
+
+    essai_0 = 1;
+
+    if(essai_0 != 1){	// Opérateur de différence
+        // do stuff
+    }
+
+    return 1;
+}

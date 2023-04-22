@@ -1,0 +1,12 @@
+int main(void){
+
+    int a;
+
+    switch(1){
+        a = 3;
+        case 2 :
+            a = a + 2;
+
+    }
+    return 0;
+}

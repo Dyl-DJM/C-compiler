@@ -1,0 +1,17 @@
+int essai(void){
+	
+	return 10;	// On retourne un entier alors qu'un char était demandé
+}
+
+
+char fonction_2(void)
+{
+
+	return essai();
+}
+
+
+int main(void){
+
+	return -1;
+}

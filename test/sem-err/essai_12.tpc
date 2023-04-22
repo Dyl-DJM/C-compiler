@@ -1,0 +1,10 @@
+int f1;
+
+int main(int integer){
+
+	int a, b;
+	char a;			// Déclaration multiple de la variable a pour un type différent
+
+
+	return 0;
+}

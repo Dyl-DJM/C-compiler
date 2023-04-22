@@ -1,0 +1,9 @@
+
+
+int main(char ma_lettre) {
+
+  affiche_lettre_fois_2(ma_lettre);		/*Appel à une fonction non déclarée*/
+
+  return 0;
+}
+

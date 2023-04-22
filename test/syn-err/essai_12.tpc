@@ -1,0 +1,5 @@
+
+int fcnt(int return){		// Les mots clés ne sont pas utilisables comme identificateurs
+	
+	return -1;
+}

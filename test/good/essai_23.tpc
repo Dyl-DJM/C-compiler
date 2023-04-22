@@ -1,0 +1,17 @@
+
+int main(void){
+
+    int a;
+
+    switch(1){
+        default :
+            // do stuff
+        case 2 :
+            switch(a > 2){  // Switch imbriqué
+                case 2 : {
+                    a = 3;
+                }
+            }
+    }
+    return 0;
+}

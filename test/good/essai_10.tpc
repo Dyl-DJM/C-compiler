@@ -1,0 +1,8 @@
+int main(void){
+
+    int a;
+
+    a = (10 + 2) / 2;
+
+    return (a + 'a');       // L'inférence de type valide cette expresison comme étant une expression de type int
+}

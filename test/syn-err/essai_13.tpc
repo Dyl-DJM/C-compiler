@@ -1,0 +1,11 @@
+
+
+int main(void){
+	
+	char carac_spec;
+
+	carac_spec = '\za';		// L'antislash ne permet qu'un unique caractère après lui
+
+	return 1;
+
+}

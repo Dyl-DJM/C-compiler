@@ -1,0 +1,6 @@
+int fonct(int essai){
+
+    if(essai = 1){	// Le comparateur n'est pas le bon (==) de plus les affectations dans les conditions n'existent pas en tpc
+        printf();
+    }
+}

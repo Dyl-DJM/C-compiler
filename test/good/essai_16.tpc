@@ -1,0 +1,11 @@
+int a(void){
+    return 1;
+}
+
+
+int main(void){
+
+    int a;  // Une variable locale peut avoir le même nom qu'une fonction
+
+    return a;
+}

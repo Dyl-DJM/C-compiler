@@ -1,0 +1,10 @@
+
+int main(void){
+	
+	char a;
+
+	a = 10;		// Affecte une entier dans une variable char
+
+
+	return 1;
+}

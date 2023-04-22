@@ -1,0 +1,9 @@
+
+int main (void){
+
+    while(a > 0){
+        case 1: {		// Un case n'existe que dans une structure switch
+            a = 3;
+        }
+    }
+}

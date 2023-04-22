@@ -1,0 +1,11 @@
+/*
+
+Le programme ne contient aucune fonction main de type int.
+
+*/
+
+
+int start_function(void){
+  
+  return 0;
+}

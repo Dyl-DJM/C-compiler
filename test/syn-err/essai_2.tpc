@@ -1,0 +1,9 @@
+/*
+
+L'identificateur ne correspond pas aux normes
+
+*/
+
+int 12main(void){
+    return 0;
+}

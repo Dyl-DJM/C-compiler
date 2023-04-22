@@ -1,0 +1,15 @@
+
+void f1(void){
+
+    f2();   // On peut donc (comme demandé pour ce projet) appelée une fonction déclarée après
+}
+
+void f2(void){
+
+    // do stuff
+}
+
+int main(void){
+
+    return 1;
+}

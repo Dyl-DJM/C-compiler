@@ -1,0 +1,4 @@
+int main(int argc){
+
+    return argc;    // Retour d'une variable de type int
+}

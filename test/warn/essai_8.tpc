@@ -1,0 +1,18 @@
+int fcnt2(void){
+	
+	return 'b';
+}
+
+int fcnt(char a){
+	
+	return a + 2;
+}
+
+int main(void){
+
+	int a;
+
+	a = fcnt(12 + fcnt2());	// fcnt2 est de type de renvoi int, donc toute l'expression est un int alors qu'on veut un char
+
+	return a;	
+} 

@@ -1,0 +1,10 @@
+int f(int a){
+
+    return a;
+}
+
+
+int main(void){
+
+    return f(f(f(12)));     // Appel de fonction comme argument d'une fonction
+}

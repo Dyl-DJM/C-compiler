@@ -1,0 +1,18 @@
+char fcnt2(void){
+	
+	return 'a';
+}
+
+int fcnt(int a){
+	
+	return a;
+}
+
+int main(void){
+
+	char a;
+
+	a = fcnt(12) / fcnt2();   // fcnt2 est de type char mais il y a également un int dans l'exp donc l'exp est considèrée comme int
+
+	return a;	
+}

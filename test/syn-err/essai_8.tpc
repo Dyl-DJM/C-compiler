@@ -1,0 +1,10 @@
+int main (void){
+
+    switch(2){
+        case 1 {	// Il faut obligatoirement les deux points après un case
+            
+            // do stuff
+        }
+    }
+
+}

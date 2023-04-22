@@ -1,0 +1,8 @@
+int f1;
+
+int main(int a){
+
+	f1();		// f1 est bien déclarée comme une variable globale et non comme une fonction.
+
+	return 0;
+}

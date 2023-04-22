@@ -1,0 +1,15 @@
+
+int main(int a){
+
+	switch(a){
+		case 10 : {
+			// do stuff
+		}
+
+		case 10 : {		// Valeur de case deux à deux équivalente
+			// do stuff
+		} 
+	}
+
+	return 1;
+}

@@ -1,0 +1,14 @@
+int main(int a){
+
+	switch(a){
+		default : {
+			// do stuff
+		}
+
+		default: {		// Deux defaults successifs
+			// do stuff
+		} 
+	}
+
+	return 1;
+}

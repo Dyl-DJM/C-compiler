@@ -1,0 +1,13 @@
+char aux (char a){
+    return 'a';
+}
+
+int fonction(int a, int b, char c){
+
+    return (a * b);
+}
+
+int main(void){
+
+    return fonction((2 + 3) / 2, 3, aux(aux('b'))); // Les exp arithmètiques et les appels de fonctions sont possibles comme arguments d'une fonction
+}

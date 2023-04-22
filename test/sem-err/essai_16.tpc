@@ -1,0 +1,7 @@
+
+int main(int a){
+
+	b = a; 	// La variable b n'est pas déclaré
+
+	return 0;
+}

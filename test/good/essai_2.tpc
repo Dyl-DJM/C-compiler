@@ -1,0 +1,7 @@
+
+int main(int argc, char argv){
+
+    int a, b, c, d, e, f, g; 	// Déclaration multiple sur une seule ligne	
+
+    return 1;
+}

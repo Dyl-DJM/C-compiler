@@ -1,0 +1,16 @@
+
+int facto;
+
+
+void facto(int a){	// Même identificateur entre une variable GLOBALE et une fonction.
+	
+	// do stuff
+}
+
+
+
+
+int main(void){
+
+	return 0;
+}

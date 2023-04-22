@@ -1,0 +1,11 @@
+/*
+
+La fonction main du programme ne contient pas de type de retour int.
+
+*/
+
+
+void main(void){
+  
+  // None instructions
+}

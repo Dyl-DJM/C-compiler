@@ -1,0 +1,2 @@
+
+int main(void){int a, b, c, d;a = 2;b = a;c = b;d = c;return d;}    // Un programme sur une ligne est compilable

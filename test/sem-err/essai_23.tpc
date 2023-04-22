@@ -1,0 +1,30 @@
+int main(int a){
+
+	switch(a){
+
+		case 10: {
+			// do stuff
+		}
+
+
+		default : {
+			// do stuff
+		}
+
+		case -5 : {
+			// do stuff
+		}
+
+
+		case 12 : {		// Deux cases ont la même valeur
+			// do stuff
+		}
+
+
+		default : {
+			// do stuff
+		}
+	}
+
+	return 1;
+}

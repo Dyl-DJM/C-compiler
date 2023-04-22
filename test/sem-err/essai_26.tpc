@@ -1,0 +1,13 @@
+void fcnt(int a){
+	
+	return;
+}
+
+int main(void){
+
+	int a;
+
+	a = (1 + fcnt(12));	// fcnt est de type de renvoi void dans une expression arithmètique
+
+	return a;	
+} 

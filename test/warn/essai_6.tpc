@@ -1,0 +1,17 @@
+int f1(void){
+	
+	return 2;
+}
+
+
+char f2(void){
+
+	return f1();  // On renvoie un type int alors qu'un char était demandé en valeur de retour.
+}
+
+
+int main(void){
+	
+
+	return f1();
+}

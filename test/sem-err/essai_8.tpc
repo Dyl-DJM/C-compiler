@@ -1,0 +1,13 @@
+
+
+void facto(char carac){	
+	
+	// do stuff
+}
+
+
+
+int main(int a){
+
+	return facto('c');	// Renvoie un void alors qu'un int est demandé en retour du main   
+}

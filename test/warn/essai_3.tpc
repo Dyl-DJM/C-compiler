@@ -1,0 +1,12 @@
+
+int var_globale;
+
+int main(void){
+	
+	char a;
+
+	a = 'a' + var_globale;		// Affecte un entier dans une variable char
+
+
+	return 1;
+}

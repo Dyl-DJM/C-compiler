@@ -1,0 +1,8 @@
+int fonc1(void){
+
+    int y;
+    y = 3;
+
+    char x;		// Déclaration qui n'est pas dans le bloc des délcarations (survient après une instruction qui n'est pas une déclaration)
+
+}

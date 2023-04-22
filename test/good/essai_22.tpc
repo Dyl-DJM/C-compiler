@@ -1,0 +1,11 @@
+
+int main(void){
+
+    switch(1){
+        default :   // On peut avoir un default avant un case
+            // do stuff
+        case 2 :
+            // do stuff
+    }
+    return 0;
+}

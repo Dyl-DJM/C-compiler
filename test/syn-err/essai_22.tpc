@@ -1,0 +1,18 @@
+/*
+
+Mauvaise ecriture des commentaires (Mélange)
+
+*/
+
+int main(void){
+	
+	int a;
+
+	while(-2){
+		a = 2;
+		break;	/* Une instruction break; ne peut qu'intervenir dans un switch. //
+
+	}
+
+	return 1;
+}

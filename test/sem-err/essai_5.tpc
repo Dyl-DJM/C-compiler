@@ -1,0 +1,20 @@
+
+
+void facto(int a){	
+	
+	// do stuff
+}
+
+
+int facto(void){	// Même identificateur entre deux fonctions (même de signatures différentes)
+	
+	return 1;	// Ici provoque une autre erreur disant que le type de retour doit être void (on se base sur la 1ere ocurence de facto)
+}
+
+
+
+
+int main(void){
+
+	return 0;
+}

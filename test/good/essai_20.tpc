@@ -1,0 +1,4 @@
+int main(void){
+
+    return 'a'; // l'inférence fait que ça marche
+}

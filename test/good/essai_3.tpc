@@ -1,0 +1,12 @@
+int main(void){
+
+    int essai;
+
+    essai = 1;
+
+    while(essai < 1)
+        essai = essai + 1;		// Les acollades du while/if ne sont pas obligatoires
+
+    return 1;
+}
+

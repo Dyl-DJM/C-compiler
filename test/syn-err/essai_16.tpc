@@ -1,0 +1,9 @@
+int globale;
+
+globale = 3;	// Instruction en dehors d'une fonction
+
+
+int main(void){
+	
+	return 0;
+}
